@@ -1,3 +1,7 @@
+/*
+ *  Get State Function 
+ *  For Drop down box
+ */
 function getState(id)
 {
     $.ajax({
